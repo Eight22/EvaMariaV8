@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/eb431857936f7e4d7db30.jpg" alt="EvaMariaV8">
 </p>
 <h1 align="center">
-  <b> Lazy Princess BOT </b>
+  <b> EvaMariaV8 </b>
 </h1>
 
 ## ⚡️Features
@@ -27,7 +27,7 @@
 
 ## Variables
 
-Read [this](https://telegram.dog/LazyDevelopers/8) before you start messing up with your edits.
+Read [this](https://telegram.dog/TeamYourX) before you start messing up with your edits.
 
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
